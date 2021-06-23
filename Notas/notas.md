@@ -871,6 +871,9 @@ Seleccionamos la opción Database para acceder a reverse engineer
 Las consultas o queries a una base de datos son una parte fundamental ya que esto podría salvar un negocio o empresa.
 Alrededor de las consultas a las bases de datos se han creado varias especialidades como ETL o transformación de datos, business intelligence e incluso machine learning.
 
+
+![image](https://user-images.githubusercontent.com/61909241/123169460-f184b880-d43e-11eb-998b-e34e877a687a.png)
+
 ### Clase 29 Estructura básica de un Query
 
 Los queries son la forma en la que estructuramos las preguntas que se harán a la base de datos. Transforma preguntas en sintaxis.
